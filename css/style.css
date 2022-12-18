@@ -1,0 +1,173 @@
+div {
+    display: block;
+}
+body {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0;
+    margin-inline-start: 0;
+}
+h2 {
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0;
+    margin-inline-start: 0;
+    color: #11999E;
+    font-family: Nunito,'Montserrat', sans-serif;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #11999E;
+    font-family: Nunito,'Montserrat', sans-serif;
+}
+hr {
+    border: dotted #8ec9f0 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2;
+}
+.top {
+    background-color: #C0EEE4;
+    position: relative;
+    padding: auto;
+    padding-top: 0.5em;
+}
+.title {
+    margin: 0%;
+    padding: auto;
+    position: relative;
+    top: 5em;
+    color: rgb(81, 81, 81);
+}
+.web {
+    text-decoration: underline;
+    color: rgb(0, 166, 255);
+}
+.city {
+    height: 25em;
+    width: 92em;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    right: 0.10em;
+}
+.mid {
+    margin: 0px 0;
+    background-color: white;
+}
+.dp {
+    height: 9em;
+    margin-top: 4em;
+    margin-bottom: 1em;
+}
+.profile {
+    color: #59C1BD;
+    font-family: Nunito;
+    font-size: xx-large;
+}
+.intro {
+    width: 30%;
+    margin: 0 auto;
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+.skills {
+    color: #59C1BD;
+    font-family: Nunito;
+    font-size: xx-large;
+}
+.skillr {
+    width: 50%;
+    margin: 100px auto 10px auto;
+    text-align: left;
+    font-family: Nunito;
+}
+.webd {
+    width: 26%;
+    float: left;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.intr {
+    margin: 0 auto 10px auto;
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+.canva {
+    width: 26%;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.contact {
+    color: #59C1BD;
+    font-family: Nunito;
+    font-size: xx-large;
+    margin: bottom 2em;
+    padding-bottom: 3.5em;
+}
+.co {
+    font-size: large;
+}
+.r {
+    width: 40%;
+    margin: 0 auto 10px auto;
+    font-size: large;
+    color: black;
+    font-weight: 500;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.bottom-container {
+    background-color: #C0EEE4;
+    padding: 50px 0 20px 50px;
+    margin-bottom: 0%;
+}
+.copyright {
+    color: #1f89d9;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    margin: 0%;
+}
